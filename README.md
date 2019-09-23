@@ -4,7 +4,7 @@ If we are creating a connection between client and server using TCP then it has 
 
 The entire process can be broken down into following steps:
 
-![](images/Socket_server-1.png)
+![](socket.png)
 
 The entire process can be broken down into following steps:
 
